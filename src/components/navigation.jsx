@@ -2,7 +2,8 @@ import React from 'react';
 import Search from './search';
 class Navigation extends React.Component {
     constructor (props){
-        super(props)
+        super(props);
+
     }
     render(){
 

@@ -38,4 +38,6 @@
   background-size: cover;
   background-position: center;
 }
-
+#spinner{
+  width:80px;
+}
